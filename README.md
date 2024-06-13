@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a student of software engineering programme
-feel free to reach out to me
+- 🌱 I’m a full stack software engineer, feel free to contact me.
  - 😎  A pint of luck then.. friend
